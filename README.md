@@ -1,2 +1,3 @@
-runtime: nodejs20.x
-layer: @slack/web-api
+| runtime | layer |
+| - | - |
+| nodejs20.x | @slack/web-api |
