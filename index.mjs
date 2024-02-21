@@ -45,4 +45,3 @@ async function getFileBlobFromS3(Bucket, Key) {
 
   return blob;
 }
-
